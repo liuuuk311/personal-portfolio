@@ -18,7 +18,7 @@ const Projects = () => {
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">Luca FPV</h5>
                     </OutsideLink>
                     <p class="mb-3 font-normal text-gray-500">A blog about FPV drones, where I review stuff and create tutorials</p>
-                    <p class="mb-3 font-semibold text-gray-700">Tech: React, GatsbyJS, TailwindCSS</p>
+                    <p class="mb-3 font-semibold text-gray-700">Tech: React, GatsbyJS, GraphQL, TailwindCSS</p>
                     <OutsideLink href="https://lucafpv.com" extraCssClasses="inline-flex items-center text-sm font-semibold bg-blue-600 py-3 px-8 rounded-full text-white">
                         Take a look
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="ml-2 -mr-1 w-4 h-4">
