@@ -30,7 +30,7 @@ const Header = ({cssExtraClasses}) => {
         <div className="flex flex-row flex-grow md:justify-end items-end">
           <Menu isNavOpen={isNavOpen} setIsNavOpen={setIsNavOpen}/>
           <OutsideLink extraCssClasses="hidden ml-4 text-xl font-semibold bg-blue-600 py-3 px-8 rounded-full text-white md:inline"
-                  href={"https://drive.google.com/file/d/1tWwnUNmPlW2X-9R0ZRUfEWdiI97880sI/view?usp=sharing"}>
+                  href={"https://drive.google.com/file/d/1n50OhF2N8qkzrnbO-y8gkOHeJQvbTeNu/view?usp=sharing"}>
             Download CV
           </OutsideLink>
           <Link to={`/`} className="md:hidden mx-auto">
