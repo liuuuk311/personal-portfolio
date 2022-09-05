@@ -28,8 +28,8 @@ const Hero = () => {
                         Contact Me
                     </Link> */}
                 </div>
-                <div className="md:w-1/2 h-64 md:h-96 md:py-0 py-8 bg-gray-200">
-                    img
+                <div className="md:w-1/2 h-64 md:h-96 md:py-0 py-8">
+                    
                     {/* {!cssBgSVGstyle ? <GatsbyImage
                         image={image}
                         className="rounded-lg"
